@@ -4,10 +4,6 @@ Restaurant review platform where users can discover and rate local spots 🍽️
 
 Le Wagon Bootcamp - Rails Project
 
-## Preview
-
-![Yelp MVP Screenshot](docs/screenshot.png)
-
 ## What it is
 
 A Yelp-inspired restaurant review application where users can browse restaurants, read reviews, and share their dining experiences.
